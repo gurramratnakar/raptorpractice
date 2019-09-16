@@ -1,0 +1,9 @@
+hello world
+you belong to me
+Variable N not found!
+not a prime
+prime num
+
+
+
+
